@@ -24,7 +24,7 @@ my_file = os.path.join(THIS_FOLDER, 'output.json')
 musiclistconfigpatch= [
     {
         "op": "add",
-        "path": "//"+GroupName,
+        "path": "/"+GroupName,
         "value": filenames
     },
     {
