@@ -4,7 +4,7 @@ A python script that automatically makes addons for the Ztarbound/FU music playe
 
 To use:
 
-1.- Put the wanted music files (.ogg format is required) and a png file that will be the icon of the mod in the same folder as the script. 
+1.- Put the wanted music files (.ogg format is required) and a png file that will be the icon of the mod in the same folder as the script(the icon should be 20x20 pixels if you want the icon to look good). 
 
 
 2.- Open the script in notepad and change the following variables to your preffered ones (the text between the quotes is what must be changed, and the text after the # symbol explains what they do):
